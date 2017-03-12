@@ -1,2 +1,2 @@
 # blog
-code of brandonwei's personal blog 
+code of brandon's personal blog 
